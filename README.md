@@ -17,3 +17,7 @@ khi click vào button này thì thực hiện + tong hai cái text  box .
 lick mit app:
 
 https://ai2.appinventor.mit.edu/#5733986665037824
+
+
+https://github.com/user-attachments/assets/c7ef5b7a-d678-4bdd-9a6d-9afe10f3d5ef
+
