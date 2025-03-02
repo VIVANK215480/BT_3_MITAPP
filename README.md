@@ -14,4 +14,6 @@ phần này xử lý để chuyển sceen gồm giai toán và sceen 2 chứa h�
 ### phần này làm giải toán phép cộng đơn giản thôi
 ### có cấu trúc block như sau ![image](https://github.com/user-attachments/assets/f6673503-a6bf-4e9a-b425-5e50507204cc)
 khi click vào button này thì thực hiện + tong hai cái text  box .
+lick mit app:
 
+https://ai2.appinventor.mit.edu/#5733986665037824
